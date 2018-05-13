@@ -1,0 +1,25 @@
+body {
+    height: 100%;
+   
+    
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.379);
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    
+    
+}
+
+.bg-contact2 {
+    background:url('bg.jpeg')no-repeat;
+    background-attachment: fixed;
+   
+}
+
+#movies-container {
+    display: flex;
+    flex-direction: row;
+}
